@@ -131,7 +131,13 @@
 * Effective data cultures support and empower all employees, from the newest intern to the CEO, to access and use meaningful and timely data for their work.
 * Such cultures ensure that employees have attained the skills they need to use data analytics and can make good data-driven decisions.
 * It’s not an overstatement to say that these types of organizations are often defined by their enlightened and competitive use of data.
+* In a data culture, decisions don’t rely on gut feelings, guesses, or the opinion of the highest-paid/ranking person in the room. Rather, decisions are based on data and the insights they can produce.
+* In a world undergoing rapid digital transformation, data is the metaphorical oil that is powering and enabling it all.
+* To be competitive, a progressive data-driven strategy is no longer optional. It’s a central concern. Data culture can be now considered a new way of doing business in the digital age.
+* Leaders in all types of organizations are recognizing that to succeed in the third decade of the 21st century and beyond, they must leverage the enormous power and value of data.
 * 
+
+
 
 
 
