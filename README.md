@@ -61,6 +61,77 @@
 * Implementing the program.
 * Monitoring and measuring performance.
 * Maintaining the program.
+* Data governance is about managing data well and helping to deliver its optimum value to your organization. It includes ensuring your data is available, usable, and secure.
+
+# Developing a Data Governance Framework
+
+* While there are many framework variations to choose from, including ISACA’s Control Objectives for Information and Related Technologies (COBIT) IT governance framework, they share some common components that address people, processes, and technology.
+
+# Leadership and Strategy
+
+* Your data governance program must be aligned with the strategy of the organization.
+*  For example, how can data governance support the role that data plays in enabling growth in specific markets?
+* Data plays a role in many aspects of organizational strategy, including risk management, innovation, and operational efficiencies, so you must ensure there’s a clear alignment between these aspects and the goals of data governance.
+
+# Roles and Responsibilities
+
+* Your data governance program will only be possible with the right people doing the right things at the right time.
+* Every data governance framework includes the identification and assignment of specific roles and responsibilities, which range from the information technology (IT) team to data stewards.
+
+# Policies, Processes and Standards
+
+* At the heart of every data governance program are the policies, processes, and standards that guide responsibilities and support uniformity across the organization.
+* Each of these must be designed, developed, and deployed. Depending on the size and complexity of the organization, this can take significant effort.
+* Policies, processes, and standards must include accountability and enforcement components; otherwise it’s possible they will be dead on arrival.
+
+# Metrics
+
+* The data governance program must have a mechanism to measure whether it is delivering the expected results.
+* Capturing metrics and delivering them to a variety of stakeholders is important for maintaining support, which includes funding.
+* You’ll want to know if your efforts are delivering on the promise of the program.
+* Based on the metrics, you and your team can make continuous improvements (or make radical changes) to ensure that the program is producing value.
+
+# Tools
+
+* Based on the metrics, you and your team can make continuous improvements (or make radical changes) to ensure that the program is producing value.
+* These include tools for master data management, data catalogs, search, security, integration, analytics, and compliance.
+* In recent years, many data science-related tools have made leaps in terms of incorporating ease-of-use and automation.
+* What used to be complex has been democratized and empowered more team members to better manage and derive value from data.
+
+# Communication and Collaroration
+
+* With the introduction of data governance and the ongoing, sometimes evolving, requirements, high-quality communications are key.
+* This takes many forms, including in-person meetings, emails, newsletters, and workshops.
+* Change management, in particular, requires careful attention to ensure that impacted team members understand how the changes brought about by the data governance program affect them and their obligations.
+* A large number of disparate stakeholders need to work together in order to effectively govern data.
+* It also requires clear channels between teams, such as regular meetings. Online collaboration platforms are increasingly being used too.
+
+# Preparing for Data Governance
+
+* Data governance requires careful treatment, beginning with understanding whether an organization is ready to accept it.
+* As the following sections make clear, there are some traps that you can avoid if you and your team are diligent.
+* Being ready as an organization involves determining the extent to which a data culture exists.
+* Intuitively you can conclude that an immature, reactive data culture, where data is simply handled in an ad hoc manner, is an entirely different experience than a sophisticated data-driven culture.
+* There are other prerequisites for data governance success. These include ensuring that the organization’s strategy is fully aligned with the proposed program.
+* As mentioned, any misalignment here is the number one reason data governance program deployments fail.
+
+# Data Culture
+
+* Many well-designed projects and initiatives fall flat and fail even though their teams seem to have done everything right.
+* Too often, the work gets deployed into an environment that is either not ready for change or doesn’t have the optimum conditions for success.
+* Culture will always defeat the greatest of strategies almost every time. Imagine for a moment designing and deploying a data governance program for an organization that has little or no data culture.
+* Intuitively this sounds like a disaster in the making. To be fair, every organization has some form of a data culture; it just might not be in an ideal state.
+
+# Assessing the Data Culture 
+
+* If you want to increase your chances of success - you need to understand the data culture of your organization and determine how to broaden and mature it if necessary.
+* You need an environment for success.
+* On a basic level, data culture is how your organization values data and how it manages and uses it.
+* There’s a wide chasm between companies that simply manage data as a consequence of doing business versus those that consider data central to how their organization operates and makes decisions
+* Effective data cultures support and empower all employees, from the newest intern to the CEO, to access and use meaningful and timely data for their work.
+* Such cultures ensure that employees have attained the skills they need to use data analytics and can make good data-driven decisions.
+* It’s not an overstatement to say that these types of organizations are often defined by their enlightened and competitive use of data.
+* 
 
 
 
