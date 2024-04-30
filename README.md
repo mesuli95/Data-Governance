@@ -166,6 +166,16 @@
 * The IT organization is capable and resourced to support the program.
 * This list is not exhaustive and there may be other items you consider relevant to your organization.
 
+# Defining Data 
+
+* Data refers to collections of digitally stored units, in other words, stuff that is kept on a computing device.
+* These units represent something meaningful when processed for a human or a computer.
+* Single units of data are traditionally referred to as datum and multiple units as data.
+* However, the term data is often used in singular and plural contexts and, in this course, We are going to simply refer to both as data.
+* Data is also defined based on its captured format. Specifically, at a high level, it falls into one of the following categories:
+* Structured: Data that has been formatted to a set structure; each data unit fits nicely into a table in a database. It’s ready for analysis. Examples include first name, last name, and phone number.
+* Unstructured: Data that are stored in a native format must be processed to be used. Further work is required to enable analysis. Examples include email content and social media posts.
+* Semi-structured: Data that contains additional information to enable the native format to be searched and analyzed.
 
 
 
