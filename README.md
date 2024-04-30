@@ -177,6 +177,16 @@
 * Unstructured: Data that are stored in a native format must be processed to be used. Further work is required to enable analysis. Examples include email content and social media posts.
 * Semi-structured: Data that contains additional information to enable the native format to be searched and analyzed.
 
+# From Data to Insight
+
+* Creating, collecting, and storing data is a waste of time and money if it’s being done without a clear purpose or intent to use it in the future.
+* Certain exceptions may be logical to collect data even when we don’t have a reason because it may have value at some point in the future, but this is only an exception.
+* Generally, an organization is onboarding data because it’s required for some purpose.
+
+# Data-Driven Decision-Making
+
+* 
+
 
 
 
