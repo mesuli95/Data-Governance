@@ -419,6 +419,32 @@
 * By continuously monitoring the quality of the data in your organization, opportunities and issues may be revealed in a timely manner.
 * Then, if deemed appropriate, actions can be prioritized.
 
+# Insight Management
+
+* Data forms the building blocks of many business functions.
+* In support of decision-making — arguably its most important value — data is the source for almost all insight.
+* As a basic definition, business insight is sometimes referred to as information that can make a difference.
+* It’s not enough to simply collect lots of data and expect that insight will suddenly emerge. There must be an attendant management process.
+* Thus, insight management means ensuring that data and information are capable of delivering insight.
+* Insight management begins with gathering and analyzing data from different sources.
+* In order to determine what data to process, those responsible for insight management must deeply understand the organization’s information needs.
+* They must be knowledgeable about what data has value. In addition, these analysts must know how information flows across the organization and who it must reach.
+* With the data gathered and processed, analytics will be applied — this is the interpretation of the data and its implications.
+* Insight management involves designing and creating the most effective manner to communicate any findings.
+* For different audiences, different mechanisms may be required.
+* This is seldom a one-size-fits-all. Some people will want an executive summary while others may want the painful details.
+* For an insight to be most valuable, it must be the right information, at the right time, in the right format, for the right people. But this in general is no simple task.
+
+# Reporting
+
+* 
+
+
+
+
+
+
+
 
 
 
