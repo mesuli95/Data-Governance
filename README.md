@@ -446,9 +446,84 @@
 * That could include a list of all expenditures for a department over a certain period or it could just be a total amount. It will depend on the audience and purpose. The inclusion of visuals is popular.
 * Reports are typically online or physical presentations of data and information on some aspect of an organization.
 * With so many uses of data and information, the purpose of reporting is largely about improved decision-making.
-* 
+* With the right information, in the right format, at the right time, business leaders are empowered to make better decisions, solve problems, and communicate plans and policies.
+* While reports do empower leaders and give them more tools, they don’t guarantee the right decisions.
+* Knowing something is not the equivalent of making the right choices at the right time.
+
+# Other Roles for Data
+
+* While we’ve gone over a number of the most visible uses of data in organizations today, it was not the intent to list every conceivable way that data is used.
 
 
+# Important areas that we should not omit
+
+* Artificial intelligence (AI):  Data is considered the fuel of AI. It requires a high volume of good data. With huge quantities of quality data, the outcomes of AI improve. It’s from the data that AI learns patterns, identifies relationships, and determines probabilities. In addition, AI is being used to improve the quality and use of data in organizations.
+* Problem-solving:  Acknowledging the close association with decision-making, it’s worth calling out problem-solving as a distinctive use of data. Data plays a role in how a problem is defined, determining what solutions are available, evaluating which solution to use, and measuring the success or failure of the solution that is chosen and applied.
+* Data reuse:  While we collect and use data for a specific primary purpose, data is often reused for entirely different reasons. Data that has been collected, used, and stored can be retrieved and used by a different team at another time - assuming they have permission, including access and legal rights (notable controls within data governance). Data reuse can be considered a positive given that it reduces data collection duplication and increases the value of data to an organization, but it must be managed with care so that it doesn’t break any data use rules
+
+# Improving Outcomes with Data
+
+* Now that the diverse roles of data have been identified and discussed, it’s useful to understand how data can be leveraged to acquire its maximum value. It begins with recognizing that data is an organizational asset.
+* This simply means that it’s something that brings economic value to the organization.
+*  It’s clear to see this when it is pointed out, but many team members don’t yet look at data this way.
+* When data is considered an asset - in fact, specifically a high-value asset - it often gets treated differently.
+* Perhaps the function that is most associated with data is the process of exploring it and looking for insights.
+* Called data analytics, this is a comprehensive organizational function that requires skilled staff and tools.
+* With the emergence of big data, data analytics has become more complex and requires deeper skills, but it’s also made data more valuable and important to the business.
+
+# Approaching Data as an Asset
+
+* An asset is something that is owned by a person, an organization, or a government with the expectation that it can bring some economic benefit.
+* This includes the generation of income, the reduction of expenses, or an increase in net worth.
+* An asset can be tangible or intangible. Tangible assets are physical things such as inventory, machines, and property. That’s stuff you can see and touch.
+* An intangible asset is the opposite; it’s a non-physical thing like software, copyrights, a brand, and goodwill. Data is an intangible asset.
+* Organizations care about both types of assets because they typically get captured in their financial accounts.
+* Listing the value of assets presents the true state of any organization and reflects its financial health.
+* In addition, capturing and valuing assets is required for determining tax obligations and for acquiring loans.
+
+# Examples of the economic value of data:
+
+* Improves operations.
+* Increases existing revenue.
+* Produces new forms of revenue.
+* Builds relationships with customers and other stakeholders.
+* Improves the quality of products and services.
+* Contributes to competitive advantage.
+* Enables innovation.
+* Reduces risk.
+
+* It’s notable that data isn’t typically captured overtly on an organization's balance sheet.
+* The net result of knowing that data is an asset, but not treating it the same way as other financial assets, means it often doesn’t get the attention and respect it deserves.
+* In practical terms, this may mean that data is often taken for granted, not leveraged nearly as much as it could be, and not protected to the extent it must be.
+* Recognizing that data is an asset is the first step to good data governance.
+* When you think of data as an asset, you’ll be concerned with whether it is good or bad data. You’ll pay attention to the data’s accuracy, completeness, validity, and more.
+* It means the organization will be mindful of whether data is being used as an organizational resource or being hidden in silos.
+* This will mean understanding how the data is being managed and who has responsibility for it. Without roles and accountabilities, data can’t truly be managed well.
+* Bottom line: Data is an asset and for its value to be leveraged, it must be governed. This may be one of the most important motivations for good data governance.
+
+# Data Analytics
+
+* The process of examining data in order to produce answers or find conclusions is called data analytics.
+* A formal and disciplined approach is conducted by a data analyst, and it’s a necessary step for any individual or organization that’s trying to make good decisions for their organization.
+* The process of data analytics is varied depending on resources and context but generally follows the steps outlined in Figure 8. These steps commence after the problem and questions have been identified.
+
+# Basic Steps in Data Analysis
+
+1. Data mining - identifying and extracting relevant data from data sources.
+2. Data Mining - sizable effort including removing errors and duplicate data in preparing of data analysis.
+3. Statistical analysis - using statistical methods and artificial intelligence to interpret results and develop insights.
+4. Data presentation - Communicating results using a variety of techniques including visualization and story telling.
+
+# Data analytics types
+
+* Descriptive:  Existing data sets of historical data are accessed, and analysis is performed to determine what the data tells stakeholders about the performance of a key performance indicator (KPI) or other business objectives. It is insight on past performance.
+* Diagnostic:  As the term suggests, this analysis tries to glean from the data the answer to why something happened. It takes descriptive analysis and looks at the cause.
+* Predictive:  In this approach, the analyst uses techniques to determine what may occur in the future. It applies tools and techniques to historical data and trends to predict the likelihood of certain outcomes.
+* Prescriptive:  This analysis focuses on what action should be taken. In combination with predictive analytics, prescriptive techniques provide estimates of the probabilities of a variety of future outcomes.
+
+* Data analytics involves the use of a variety of software tools depending on the needs, complexities, and skills of the analyst.
+* Beyond your favorite spreadsheet program, which can deliver a lot of capabilities, data analysts use products such as R, Python, Tableau, Power BI, QlikView, and others.
+  
 
 
 
