@@ -1,7 +1,7 @@
 # Data Governance
 
 <details>
- <summary> Week 1 </summary>
+ <summary> Notes </summary>
 
 # What is Data Governance
 
@@ -561,6 +561,9 @@
 * Policies:  A data policy contains a set of adopted rules by an organization that apply to the handling of data in specific conditions and for particular desired outcomes. These policies apply in areas such as quality, privacy, retention, and security. The number of policies is typically a reflection of the size of the organization, the industry, and the degree to which data is considered a high-priority asset. As you can imagine, the healthcare and financial industries, for example, which manage high volumes of sensitive data, have a significant number of data policies in support of their data governance programs.
 * Metrics:  It’s largely true, what gets measured gets managed. In developing policies in support of data governance, you have to consider how each is measured. For example, if a policy states that there shouldn’t be more than five risk events per month such as a regulatory requirement being out of compliance, then, assuming the metric is high to begin with, it should decrease over time. If it doesn’t decrease or it does and then fluctuates widely, there’s an issue with the relevant data management procedures. Metrics must be in support of both technical and business needs. 
 
+# Examining the Broader Value of Data
+
+* 
 
 
 
