@@ -183,6 +183,14 @@
 * Certain exceptions may be logical to collect data even when we don’t have a reason because it may have value at some point in the future, but this is only an exception.
 * Generally, an organization is onboarding data because it’s required for some purpose.
 
+# The role of Data in the 21st Century
+
+* Since the early days of data processing in the 19th and 20th centuries right through to digital transformation in the 21st century, data has played many important roles.
+* It’s helped us understand the world in completely new ways, improved our ability to make better-informed decisions, and supported our efforts to solve all manner of problems. In this way, it’s fair to say that data has always been important.
+* Something is quite clear though. The value data that has been added over the course of many decades has not remained flat.
+* In these early decades of the 21st century, we are producing more data than we can handle, and the depth, breadth, and quality of the data that is being used are reshaping not just the tools and capabilities of our industries and cities, but the nature of how we learn, socialize, and entertain ourselves.
+*  It’s also elevating risks that we may previously have characterized as annoyances to a world today where a cyberattack can result in millions of dollars of losses in hours.
+
 # Data-Driven Decision-Making
 
 * Perhaps one of the greatest values of data is its ability to help us all make better decisions.
@@ -249,6 +257,173 @@
 * The Romans, for example, used ledgers to keep track of their various activities across their expansive empire.
 * Fast-forward to the 20th century and the Cold War was instrumental in the technological leaps that resulted in microprocessors and the classical computing we use today.
 * One by-product of the Cold War, the space race between the United States and the Soviet Union, accelerated innovation in computing and telecommunications.
+
+# The Role of the U.S Census in The Information Revolution
+
+* Processing data on some form of computing device has been around since the late 1800s. In fact, the need for a mechanism to better tabulate the results of the U.S.
+* Constitutional requirement to conduct a population census every ten years is said to be the origin of data processing.
+* Counting all the people and other data points in the 1880 census took almost eight years.
+* It’s assumed it was full of errors. It was also a boring, tedious process.
+* Credit for the first company to automate and commercialize the processing of this data goes to the Tabulating Machine Company, founded in 1896.
+
+# Difining Big Data
+
+* Big data is structured and unstructured data that is so massive and complex in scale, that it’s difficult and often impossible to process via traditional data management techniques.
+
+# One way to define and characterize big data is through these five Vs:
+
+* Volume: The sheer scale of data being produced is unprecedented and requires new tools, skills, and processes.
+* Variety: There are already a lot of legacy file formats, such as CSV and MP3, and with new innovations, new formats are emerging all the time. This requires different methods of handling, from analysis to security.
+* Velocity: With so many collection points, digital interfaces, and ubiquitous connectivity, data is being created and moved at increasing speed. Consider that in 2021, Instagram users created, * uploaded, and share 65,000 pictures a minute.
+* Variability:  The fact that the creation and flow of data are unpredictable.
+* Veracity:  The quality, including accuracy and truthfulness, of large volume of disparate sets of data, can differ considerably, causing challenges to data management.
+
+# Drivers of Big Data
+
+* At a technology conference in 2003, the then-CEO of Google, Eric Schmidt. At the time said that every two days the world was creating more data than all the data created since the dawn of civilization.
+* Big data was a thing even before Android and Apple smartphones and apps started generating data.
+* This was before we had connected billions of devices, called the Internet of Things (IoTs), which would eventually begin collecting all manner of data.
+* Big data even predates videos of cats published every day on social media platforms.
+* By the third decade of the 21st century, with so many devices connected and the world in a state of digital transformation, the volume of data being created had experienced a Cambrian explosion.
+* Cambrian explosion — a term the data science community has adopted from an early period in history notable for the rapid introduction of life into the natural environment.
+* We were regularly well into the zettabyte range of data and its growth curve was continuing relentlessly.
+* In 2021, global technology use generated 79 zettabytes of data, and it is anticipated to hit 180 zettabytes in 2025.
+* A learner seeing this course in 2040 might read the previous sentence and not be impressed at such small numbers, the same way a 32GB smartphone was considered a large amount of space in 2015.
+
+# Consequences of Big Data
+
+* While these big data statistics are impressive, they don’t really paint the full picture. It might be easy, for example, to assume that all the data is good quality. You might believe it is easy to analyze.
+* You may even think it is easily accessible. Most of these assumptions and many related ones will likely be incorrect.
+* For starters, up to 80 percent of data is unstructured.
+* That’s a challenge right there. The vast majority of organizations struggle with unstructured data.
+* In addition, a lot of this data is duplicative. Some of it will be bad data, which means it can’t be trusted, has errors, or includes some other substantive challenge.
+* An over-used quote attributed to the 19th century U.S. retailer John Wanamaker stated that half his advertising budget was wasted but he just didn’t know which half.
+* In a time when advertising was mainly billboards and newspapers, it was nearly impossible to know which advertising resulted in a sale.
+* Today, a combination of hyperconnectivity and data has upended this predicament. Marketers using the latest technology can better understand the marketplace in granular detail.
+* They can target specific audiences, and even specific individuals, where the chance of a sale is highest.
+
+# What about small data?
+
+* While so many of our business activities in the digital economy are driven by big data, there are still a lot of small data sets that are instrumental in decision-making and day-to-day operations.
+* Think about all the spreadsheets that come by your inbox, the short surveys, or those go-to lists that we’ve all compiled and can’t live without.
+* It’s not nearly as glamorous as big data, but in some cases, it may be argued as valuable.
+* Big questions can be answered in small data.
+* In fact, big data is often more meaningful when broken into smaller, more manageable chunks.
+* chunks - an increasingly popular definition of small data. Smaller, logically arranged data can be the way to make sense of big data.
+* In some circumstances, it may be the only way.
+
+# Enter the Realm of Smart Data 
+
+* Smart data has emerged as a new term that defines big data that’s been optimally prepared for use to deliver the highest business value.
+* Instead of being overwhelmed by the distractions inherent to the volume, velocity, and variety of data in big data sets, processes are applied to big data to prepare it for specific uses.
+* For example, marketing teams can target potential customers with precision. Analytics applications can use high-quality real-time data generated in a manufacturing setting.
+* Smart data uses new processes and tools to make the data most useful.
+* For example, the increasing use of artificial intelligence (AI) is now being applied to find patterns in unstructured big data and extract the data that is most relevant for a given application.
+* Using new methods such as AI reduces time, lowers errors, and enables the creation of data subsets that may not have been previously possible.
+* In addition, smart data solutions are often applied at the point of collection rather than a post-processing solution.
+* In the 21st century we must recognize that all data can have value — big, small, and smart. Data governance is concerned with data no matter what form it takes.
+
+# Identifying the Roles of Data 
+
+* To fully appreciate the value that data brings to every organization, it’s worth exploring the many ways that data shows up on a daily basis.
+* Recognizing the incredible diversity of data use and the exposure it has across all business functions reinforces its importance.
+* It's critical to ensure that data is high quality, secure, compliant, and accessible to the right people at the right time.
+* Data isn’t something that just concerns the data analytics team or the information technology department. It’s also not something that is limited to decision-makers and leaders.
+
+# Operations 
+
+* Business operations concern themselves with a diverse set of activities to run the day-to-day needs and drive the mission of an organization.
+* Each business has different needs, and operational functions reflect these specific requirements. Some core functions show up in almost every organization.
+* Consider payroll, order management, and marketing. At the same time, some operational support won’t be required.
+* Not every organization needs its own IT organization, or if it’s a service business, it may not have a warehouse.
+* Operations run on and are powered by a variety of data and information sources. They also create a lot of both, too.
+* The performance of operations is often easily quantified by data.
+* For example, in a human resources (HR) function, they’ll want to know how many openings there are, how long openings are taking to fill, and who is accepting offers.
+* There’s a multitude of data points to quantify the answers to these so that relevant decisions can be made.
+* In HR, data is also created by the activities of the function.
+* For example, candidates enter data when they apply for a position, data is entered when evaluating an applicant, and all along the way the supporting systems log a variety of automated data, such as time, date, and how long an application took to complete online.
+* Operations use data to make decisions, enable systems to run, and deliver data to internal and external entities. For example, a regional sales team will deliver their monthly results to headquarters to be presented to vice presidents or the C-suite.
+* Many data functions in support operations are automated. For example, a warehouse inventory system may automatically generate a replenishment order when stock drops to a certain level.
+* Consider all the notifications that systems generate based on triggers. Who hasn’t received an email notifying them that they haven’t submitted their time and expense report?
+
+# Strategy
+
+* Every organization has a strategy, whether it’s articulated overtly or not. At the organizational level, this is about creating a plan that supports objectives and goals.
+*  It’s essentially about understanding the challenges to delivering on the organization’s purpose and then agreeing on the proposed solutions to those challenges.
+* Strategy can also be adopted at the department and division levels, but the intent is the same: understand the journey ahead and make a plan.
+* Strategy leads to implementation and requires the support of operations to realize its goals. In this way, strategy and operations are two sides of the same coin.
+*  Done right, a data-driven strategy delivered with operational excellence can be a winning ticket.
+* Creating a strategy typically comes down to a core set of activities. It begins with an analysis of the environment followed by some conclusions on what has been gathered.
+* Finally, a plan is developed, driven by some form of guiding principles. These principles may be derived from the nature of the work, the values of the founders, or some other factors.
+* Deeply tied to all these steps is the availability of good quality data that can be processed and analyzed and then turned into actionable insights.
+* Certainly, data and information won’t be the only mechanisms in which the plan will be constructed.
+* There must be room for other perspectives, including the strength of belief that people with experience bring to the discussion.
+* The right mix of data and non-data sources must be considered. Too much of one or the other may not deliver the expected results.
+* A best practice for strategy development is to consider it an ongoing process.
+* This doesn’t mean updating the strategy every month — as strategies are intended to last for several years — but it may mean revisiting the strategy every six months and tweaking it as necessary.
+* Revisions to strategy should be guided by new data, which can mean new knowledge and new insights.
+* While a regular process of strategy revisions is encouraged, new information that suddenly presents itself can trigger an impromptu update.
+* In the 21st century, organizations need to react quickly to environmental conditions to survive. Data will form the backbone of your response system.
+
+# Decision-Making
+
+* It’s generally accepted in business that the highest form of value derived from data is the ability to make better-informed decisions.
+* Without even creating a single unit of raw data, there’s a universe of existing data and information at our fingertips
+* In addition, increasing numbers of easy-to-use analysis capabilities and tools are democratizing access to insight.
+* Popular consumer search engines such as Google and Bing have transformed how we make decisions.
+* Doctors, for example, now deal with patients who are more informed about their symptoms and their causes
+* Within organizations, access to abundant data and information has resulted in quicker, timeous, and better-quality business decisions.
+* For example, executives can understand their strengths, weaknesses, opportunities, and threats closer to real time.
+* For most, gone are the days of waiting until the end of the fiscal quarter to get the good or bad news.
+* Even if the information is tentative in the interim, it’s vastly better than being in the dark until it may be too late.
+* While there’s little surprise that data-driven decision-making is a fundamental business competency, it all hinges on decision-makers getting access to quality data at the right time.
+* Abundant and out-of-date data are not synonymous with data value. Bad data may be worse than no data.
+* Bad data processed into information and then used as the basis for decisions will result in failure.
+* The outcome of decisions based on bad data could range from a minor mistake to job termination right up to the closing of the business.
+
+# Measuring
+
+* Organizations are in a continuous state of measurement, whether it’s overt or tacit. Every observed unit of data contributes to building a picture of the business.
+* The often-used adage, what gets measured gets managed, is generally applicable. That said, some things are hard to measure and not everything gets measured.
+* The aspiration for every leader is that they have the information they need when they need it.
+* You might not always think of it this way, but that information is going to be derived from data that is a result of some form of measurement.
+* Data measurements can be quantitative or qualitative.
+* Quantitative data is most often described in numerical terms, whereas qualitative data is descriptive and expressed in terms of language.
+* The type of information desired directly correlates to the measurement approach.
+* This is going to inform your choices of at least what, when, where, and how data is captured.
+* A general rule is only to capture and measure what matters.
+* Some may argue that capturing data now to measure later has value even if there isn’t a good case yet.
+* I can buy that but be careful with your limited resources and the potential costs.
+* “Not everything that can be counted counts, and not everything that counts can be counted.”
+* This quote teaches us that being overly passionate to believe that you can always find relevance in any type of data, be the mere fact that you can identify data elements.
+
+# Monitoring
+
+* This is an ongoing process of collecting and evaluating the performance of, say, a project, process, system, or another item of interest.
+* Often the results collected are compared against some existing values or desired targets.
+* For example, a machine on a factory floor may be expected to produce 100 widgets per hour.
+* You engage in some manner of monitoring in order to inform whether, in fact, this expectation is being met.
+* Across a wide range of activities, monitoring also helps to ensure the continuity, stability, and reliability of that being supervised.
+* The data produced through monitoring feeds reports, real-time systems, and software-based dashboards.
+* A monitor can tell you how much power is left in your smartphone, whether an employee is spending all their time on social media, or if through predictive maintenance, a production line is about to fail.
+* Monitoring is another process that converts data into insight and as such, exists as a mechanism to guide decisions.
+* The role of data in measurement and monitoring often go hand-in-hand.
+* Intuitively you know you have to measure something that you want to monitor.
+* The takeaway here is not the obvious relationship they have, but the fact that data is a type of connective tissue that binds business functions.
+* This interdependence requires oversight and controls, as stakeholders often have different responsibilities and permissions.
+* For example, the people responsible for providing measurement data on processes may belong to an entirely different team from those who have to monitor and report on the measurement data.
+* Those who take action may again belong to an entirely different department in the organization.
+* Data monitoring is also the process of evaluating the quality of data and determining if it is fit for purpose.
+* To achieve this, it requires processes, technologies, and benchmarks.
+* Data quality monitoring metrics may include areas such as completeness and accuracy.
+* By continuously monitoring the quality of the data in your organization, opportunities and issues may be revealed in a timely manner.
+* Then, if deemed appropriate, actions can be prioritized.
+
+
+
+
+
+
 
 
 
