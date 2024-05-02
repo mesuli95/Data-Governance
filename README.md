@@ -243,6 +243,15 @@
 4. Archival:  In this stage, you identify data that is not currently being used and move it to a long-term storage system out of your production environment. If it's needed at some point in the future, it can be retrieved and utilized.
 5. Destruction:  Despite a desire by some to keep everything forever, there is a logical point where destruction makes sense or is required by regulation or policy. Data destruction involves making data inaccessible and unreadable. It can include the physical destruction of a device such as a hard drive.
 
+# Understanding the impact of Big Data
+
+* Data isn’t some kind of new phenomenon. In fact, we’ve been capturing and storing data in an analog fashion for thousands of years.
+* The Romans, for example, used ledgers to keep track of their various activities across their expansive empire.
+* Fast-forward to the 20th century and the Cold War was instrumental in the technological leaps that resulted in microprocessors and the classical computing we use today.
+* One by-product of the Cold War, the space race between the United States and the Soviet Union, accelerated innovation in computing and telecommunications.
+
+
+
 
   
 
