@@ -563,7 +563,109 @@
 
 # Examining the Broader Value of Data
 
+* In small organizations or when a business is first created, only a few systems are used, and team members know the type and location of most of the data that is available.
+* The ability of team members to access data that they need for their work, without having to rely on specialists, is called data democratization.
+* As organizations grow and more systems are employed, eventually no single person knows what data is available and where it is in the enterprise
+* Without this knowledge, the ability to properly govern your data and leverage its value is greatly hampered.
+* Without deliberate actions, data democratization becomes elusive.
+* Unfortunately, over time, the situation often deteriorates. Whether because of culture, strategy (or lack of strategy), systems design, budgets, mergers, or any number of other dynamics, data sets get siloed.
+* A data silo is a data repository controlled by an entity in an organization but not frequently shared or known by other parts of the business.
+* Data silos hinder business efficiencies because they reduce collaboration and increase data inconsistencies.
+* Data governance helps eliminate unnecessary data siloes and makes data discoverable and available whenever and wherever it adds value.
+* Unfortunately, most organizations don’t automatically come with a universal search engine that can help locate and serve up any type of data or information stored in the enterprise.
+* Being able to tame and explore data sprawl — a term for the myriad of data types and sources that most businesses grapple with today — is not easily achieved without investing specialized effort.
+* The ease at which you access data from across the Internet via a browser is seldom the experience in a business.
+* In a weird twist, it’s often easier to find information about your organization by Googling it rather than using your own internal search systems.
+* Of course, if the data is protected behind your organization’s firewall, a public search engine won’t help either.
+
+# Knowing what data is available is essential for the following reasons:
+
+* Better informed decision-making.
+* Ensuring compliance and regulatory requirements.
+* Lower costs by avoiding duplicate system and data efforts.
+* Improved data analytics and reporting.
+* Higher performing systems.
+* More efficient operations.
+* Reducing data inconsistencies across the enterprise.
+
+# Data Catalogs
+
+* Another, increasingly popular, method of data discoverability is the creation of an enterprise data catalog.
+* Like a store catalog that categorizes products and includes details such as availability and price, a data catalog lists the availability of data sets and includes a wide range of valuable details about that data.
+
+# The three essential benefits of data catalogs are:
+
+* Finding data: Helps users identify and locate data that may be useful.
+* Understanding data:  Answers a wide variety of data questions such as its purpose and who uses it.
+* Making data more useful:  Creates visibility, describes value, and provides access to information.
+
+* A data catalog delivers a comprehensive inventory that provides an enterprise view of all data.
+* A data catalog is more than just a list of all data sets. Sure, for many organizations, this feature alone would add enormous value. What makes a data catalog particularly valuable is that it contains data about the data.
+* It’s called metadata. This content can be curated manually and also by automated processes which can acquire it from other sources. Artificial intelligence (AI) is now playing a growing role in the latter.
+
+# A data catalog can contain three types of metadata
+
+* Technical metadata:  Data about the design of a data set such as its tables, columns, file names, and other documentation related to the source system.
+* Business metadata:  Organizational data such as a business description, how it is used, its relevancy, an assessment of data quality, and users and their interactions.
+* Operational metadata:  Data such as when the data was last accessed, who accessed it, and when was it last backed up.
+
+# Examples of metadata include the following:
+
+* Associated systems.
+* File names.
+* File locations.
+* Data owners.
+* Data descriptions.
+* Dates created.
+* Dates last modified.
+* List of database tables and views.
+* Data stewards.
+* Size of data sets.
+* Quality score.
+* Comments.
+
+* For a large number of stakeholders ranging from data analysts to data stewards, a data catalog presents many advantages. Primarily, the ability to find data tops the list. But it provides much more than that.
+
+# With a data catalog, an organization can:
+
+* Know what data it has (and by extension, know what data is missing).
+* Reduce data duplication.
+* Increase operational efficiencies and innovation.
+* Understand data quality.
+* Manage compliance.
+* Enjoy cost savings from improved operations.
+
+# Things to note
+* A well-managed data catalog can be transformational for an organization.
+* The effort to create and maintain one should not be understated.
+* But, without a doubt, a data catalog is often the basis for delivering successful data governance and data management.
+
+# Case Study: Unlocking Data Silos With a Data Catalog
+
+# Background
+
+* A European power company has embraced data governance in support of its mission of decarbonizing the production of electricity.
+* The organization generates and distributes energy across multiple countries.
+* Data is essential to every part of their business. For example, daily operations, like evaluating equipment performance, require deep data insights.
+* Making data central to these tasks translates to considerable cost savings.
+* Protecting data from misuse is also important. Not only must the business adhere to the regulatory requirements in all countries where they operate — but they must also comply with Europe’s General Data Protection Regulations (GDPR), which governs the use of personal data. Failure to do so can result in fines totaling millions of euros.
+
+# Problem Statement
+
+* The challenge facing the company was how to power its mission by enabling business units and partners to collaborate using the business and technical data locked away in siloed systems, while also ensuring a high degree of data compliance.
+
+# The Solution
+
+* They found a large part of the solution in the implementation of a data catalog with robust data governance functionality.
+* The data catalog facilitated collaboration and innovation by enabling vastly improved search and discovery of data across the organization.
+* In addition, team members could share their expertise through articles in the catalog, speeding the transfer of knowledge throughout the company.
+* Compliance requirements were improved by the catalog interface guiding compliant behavior using workflows.
+* In this way, the data catalog taught people how to use data compliantly and ensured they followed the relevant policies based on the data at hand.
+
+# Results and Lessons Learned
+
 * 
+
 
 
 
