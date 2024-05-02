@@ -185,9 +185,63 @@
 
 # Data-Driven Decision-Making
 
-* 
+* Perhaps one of the greatest values of data is its ability to help us all make better decisions.
+* Intuitively reading the customer reviews of a restaurant on a website such as Hello Peter or Google Reviews can help you decide whether you want to eat there.
+* It’s valuable to you, but it’s also valuable to the restaurant owner.
+* Those reviews can make a big difference, including being a motivation for action. Perhaps the restrooms should be cleaner.
+* Deciding on a restaurant based on reviews is an example of data-driven decision-making, but it’s also on the less complex end of the decision-making spectrum.
+* Deciding to enter a new market with an existing product or service requires a deep understanding that can come from rich sets of data.
+* If the data exists and you have the tools to process and interpret it, you may be well-positioned to make the right decision.
+* It may also be easier to decide because you’re able to get the answers to your concerns.
+* Conversely, without good data and the skills and tools to analyze it, a bad and costly decision may result. This happens far too often.
+* The availability of abundant good quality data has been a boon for decision-making. You should note that I said good-quality data.
+* Consider this; if you make a decision based on bad data, your challenges will be entirely different.
+* Abundant data is a product of the 21st century, but quality data is the product of deliberate actions.
+* Data governance plays a central role when aspiring for data quality. 
 
+# Data as the New Oil
 
+* Just as oil drove and grew economies in the past, data is doing that now.
+* Some have subsequently added that just like oil, data has value but must first be processed to be useful. Specifically, oil is refined to make gas, plastics, and other useful chemicals.
+* In a similar fashion, data must be organized and analyzed to understand patterns, make decisions, identify problems, and feed other systems.
+* Without these additional steps of organizing and analyzing, oil and data are similar in that they are notably messy and unusable in their raw form.
+* Like oil, those who control large repositories of high-value data have disproportionate power.
+
+# Data Ownership
+
+* For something to be properly managed, someone needs to be responsible.
+* These rights may span from lightweight oversight and control to rigorous rules that are legally enforceable.
+
+# Data Architecture
+
+* When designing the technical needs of an organization to support its business strategy, this practice is known as enterprise architecture (EA).
+* Data architecture is a direct reflection of data governance. 
+* Using standards and established principles, organizations can analyze, design, plan, and implement the right technologies, policies, and projects to support business goals.
+* A subset of EA is data architecture.
+* In the same manner, which you can consider the holistic nature of EA in support of the organization’s strategy.
+* Data architecture is the manner in which data design and management decisions are being made to align with EA and in turn, with the business.
+* Simply stated, data architecture is the agreed blueprint for how data supports an organization’s functions and technologies.
+* When high-quality enterprises and data architectures both exist, organizations run more smoothly, and they can transform as conditions (either internally or in the marketplace) dictate.
+* The absence or poor implementation of both can stifle digital transformation efforts, create high levels of complexity, and increase the possibility of failure.
+
+# Data Architecture supports the following
+
+* Ensuring data is available to those who need it and are approved to use it.
+* Reducing the complexity of accessing and utilizing data.
+* Creating and enforcing data protections to support organizational policies and obligations.
+* Adopting and agreeing to data standards.
+* Optimizing the flow and efficient use of data to eliminate bottlenecks and duplication.
+* An established and functioning data architecture immediately signals that an organization values data, manages it as a critical business asset, and has controls in place to ensure that it aligns with business needs.
+* Indeed, like EA, data architecture is not the exclusive realm of technologists but a cross-organizational responsibility.
+* In most medium to large organizations, data must efficiently flow across business silos, such as sales and product development, and serve many different audiences in multiple forms.   
+
+# The Lifecycle of Data
+
+1. Creation:  This is the stage at which data comes into being. It may be manual or automated and get created internally or externally. Data is created all the time by a vast number of activities that include system inputs and outputs.
+2. Storage:  Once data is created and assuming you want it available for later use, it must be stored. It most likely will be contained and managed in a database. The database needs a home, too as a local hard drive, server, or cloud service.
+3. Usage:  Hopefully you’re capturing and storing data because you want to use it. Maybe not immediately, but at some point, perhaps for analysis. Data may need to be processed to be useful. That could include cleansing it of errors, transforming it to another format, and securing access rights.
+4. Archival:  In this stage, you identify data that is not currently being used and move it to a long-term storage system out of your production environment. If it's needed at some point in the future, it can be retrieved and utilized.
+5. Destruction:  Despite a desire by some to keep everything forever, there is a logical point where destruction makes sense or is required by regulation or policy. Data destruction involves making data inaccessible and unreadable. It can include the physical destruction of a device such as a hard drive.
 
 
   
