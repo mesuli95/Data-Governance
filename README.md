@@ -523,7 +523,44 @@
 
 * Data analytics involves the use of a variety of software tools depending on the needs, complexities, and skills of the analyst.
 * Beyond your favorite spreadsheet program, which can deliver a lot of capabilities, data analysts use products such as R, Python, Tableau, Power BI, QlikView, and others.
-  
+
+# Data Management 
+
+* Data management is not the same as data governance! But they work closely together to deliver results in the use of enterprise data.
+* Data governance concerns itself with, for example, defining the roles, policies, controls, and processes for increasing the quality and value of organizational data.
+* Data management is the implementation of data governance. Without data management, data governance is just wishful thinking. To get value from data, there must be execution.
+* At some level, all organizations implement data management. If you collect and store data, technically you’re managing that data.
+* What matters in data management is the degree of sophistication that is applied to managing the value and quality of data sets.
+* If it’s on the low side, data may be a bottleneck rather than an advantage.
+* Poor data management often results in data silos across an organization, security and compliance issues, errors in data sets, and overall low confidence in the quality of data.
+
+# Good Data Management
+
+* On the other hand, good data management can result in more success in the marketplace.
+* When data is handled and treated as a valuable enterprise asset: insights are richer and timelier, operations run smoother, and team members have what they need to make more informed decisions.
+* Well-executed data management can translate to reduced data security breaches, and lower compliance, regulatory, and privacy issues.
+* Data management processes involve the collection, storage, organization, maintenance, and analytics of an organization’s data.
+* It includes the architecture of technology systems such that data can flow across the enterprise and be accessed whenever and by whom it is approved for use.
+* Additionally, responsibilities will likely include such areas as data standardization, encryption, and archiving.
+* Technology team members have elevated roles in all these activities, but all business stakeholders have some level of data responsibilities, such as compliance with data policies and with realizing data value.
+* In summary, good data management provides the opportunity for significantly enhanced organizational performance.
+
+# Governing Data
+
+* Governing data means that some level of control exists to support a related policy.
+* For example, an organization may decide that to reduce risk, there needs to be a policy that requires data to be backed up every day.
+* The control would be the documentation of the process and enforcement of that policy.
+* If, in the review of policy adherence, data wasn’t getting backed up, then you’d quickly know that governance, for whatever reason, was not working.
+* To fully realize the potential of data in your organization means that data must be governed.
+* Any time an organizational resource or asset is left unmanaged, it’s either a recipe for disaster or a missed opportunity.
+* Even a small amount of governance beats no governance every single day.
+
+# The success of governing data can be reduced to three essential factors:
+
+* People:  While recognizing that data is increasingly created and used exclusively by machines without human intervention, handling and benefiting from data is still a highly people-centric exercise. Even in a machine-centric context, it’s people who are most often defining, designing, and maintaining data use. n governing data, people are the subject matter experts, they are responsible for quality, and they oversee and manage all related processes and responsibilities.
+* Policies:  A data policy contains a set of adopted rules by an organization that apply to the handling of data in specific conditions and for particular desired outcomes. These policies apply in areas such as quality, privacy, retention, and security. The number of policies is typically a reflection of the size of the organization, the industry, and the degree to which data is considered a high-priority asset. As you can imagine, the healthcare and financial industries, for example, which manage high volumes of sensitive data, have a significant number of data policies in support of their data governance programs.
+* Metrics:  It’s largely true, what gets measured gets managed. In developing policies in support of data governance, you have to consider how each is measured. For example, if a policy states that there shouldn’t be more than five risk events per month such as a regulatory requirement being out of compliance, then, assuming the metric is high to begin with, it should decrease over time. If it doesn’t decrease or it does and then fluctuates widely, there’s an issue with the relevant data management procedures. Metrics must be in support of both technical and business needs. 
+
 
 
 
