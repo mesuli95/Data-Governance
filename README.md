@@ -437,8 +437,16 @@
 
 # Reporting
 
+* Perhaps the most obvious manifestation of data and information management in any organization is the use of reports.
+* Creating, delivering, receiving, and acting on reports are fundamental functions of any organization.
+* Some say they are the backbone of every business.
+* That sounds overly glamorous, but it does speak to the importance of reporting and reports.
+* The content of a report, which can be summarized or detailed, contains data and information in a structured manner.
+* For example, an expenditure report would provide a basic overview of the purpose of the report and then support it with relevant information.
+* That could include a list of all expenditures for a department over a certain period or it could just be a total amount. It will depend on the audience and purpose. The inclusion of visuals is popular.
+* Reports are typically online or physical presentations of data and information on some aspect of an organization.
+* With so many uses of data and information, the purpose of reporting is largely about improved decision-making.
 * 
-
 
 
 
