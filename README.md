@@ -831,6 +831,18 @@
 * Data architecture: This area relates to the processes, systems, and applications that support working with data. Basic areas include defining data storage needs and analysis tools. It also includes items such as a data catalog, a data warehouse where data can be stored and made ready for analysis, and the methods and tools for data pipelines, moving data from a data source to a destination, and related ETL (extract, transform, and load) functions. A data strategy should support the scalability of your data architecture as well as have some flexibility as needs change. Note that data architecture is often the driver of choosing and designing data management processes and systems.
 * Data management: This area is the broad umbrella of activities that manage the full lifecycle of data in an organization. It recognizes that data is a strategic asset and must have the attendant processes, procedures, policies, skills, and tools to ensure it is treated in such a manner. This includes areas such as the management of data security and privacy, quality, metadata, integration, master data management, and analytics.
 
+![image](https://github.com/mesuli95/Data-Governance/assets/162970734/ddba3ad9-2e58-4e79-bc73-0885dc466945)
+
+# Managing and Monitoring Your Data Strategy
+
+* It would be quite the feat if you successfully design, create, and implement a data strategy in your organization.
+* The organization that embraced this would be ahead of a lot of businesses and their ability to leverage the value of data and increase organizational performance will be enhanced.
+* All strategies must be open to periodic modification. It’s not realistic to expect a strategy to be fixed for its duration in a fast-moving business world.
+* Your evolving customer expectations, organizational needs, the economy, and more all play a role in forcing a strategy to adapt.
+* Monitoring your data strategy means having the right metrics, getting feedback regularly from participants, and auditing related outcomes.
+
+
+
 
 
 
