@@ -664,10 +664,38 @@
 
 # Results and Lessons Learned
 
-* 
+* Lessons gleaned from their data governance journey included:
+* Make data governance part of how all data users work with data, not an external task force or project.
+* Start small and grow steadily. Once new users discovered how easy it was to find the data they needed, they became champions of the data governance program.
 
+* Curate metadata facilitates data search and discovery across the organization. A business glossary helps define standard terminology to ensure that all users have a common understanding of critical business terms.
+* By using a data catalog to put the right data into the right hands at the right time (with the right compliance guidance), the organization built trust in their data.
 
+# From Data to Insights
 
+* Eventually, through the addition of experiences, practicalities, values, and other dimensions, data becomes insight.
+* Insight provides a deep understanding of something and is the ultimate positive manifestation of data. It has the highest value to an organization because it can support decisions and drive actions.
+* If you can’t use your data to make better decisions and drive your organization forward, the data may just be worthless.
+
+# Acquiring and applying insight from data means defining the following:
+
+* Context: Understanding the environment and objectives of the outcome.
+* Need: Determining how insight will help to accomplish the objective.
+* Vision: Having ideas about how insight will help and what that might look like in practice.
+* Outcome:  Specifying how insights will be adopted and success will be measured.
+
+# These dimensions can be used to answer questions such as:
+
+* What data is required?
+* Does the data exist?
+* Is it current?
+* Is it easily available?
+* What format is the data in?
+* What kind of data analysis is required?
+* How will the data be presented?
+
+* Converting data into insights is no easy task. It’s complicated and skilled work and relies on good quality data that is accessible.
+* Those tasked with delivering insights often cite data quality, data volume, work effort, and integrating data from various sources as the top reasons that make it difficult and create a deterrent to adoption.
 
 
 
