@@ -772,6 +772,45 @@
 * Determine the findings:  Once you have data that you can display in a variety of ways, you can ask questions about it. For example, if you’re trying to understand customer demographics relative to sales in a particular region, you may want to toggle between different age ranges. While all phases of DDDM have complexity, the tough work here is knowing which questions to ask. This skill is aided by training, but experience helps.
 * Take action:  That’s all there is to this step. Make your decisions. If you’ve completed Steps 1-5 well, but no action is taken (assuming that’s not the decision based on analyzing the data since concluding that no decision is necessary is, in fact, a decision), you’ve wasted a lot of time. DDDM is all about the decisions that result in actions.
 
+* Data-driven decision-making - done right - can be a game-changer for any organization.
+* With the culture, skills, and tools, better decisions will be made, and they’ll be made more quickly too.
+* As a bonus, team members will feel more empowered, and the process will often lead to greater collaboration between business units.
+
+# Developing a Data Strategy for Improved Results
+
+# Reasons that organizations don’t take a proactive approach to managing data:
+
+* “If it ain’t broke”, why fix it?
+* It’s too expensive and time-consuming to focus on data.
+* It’s far too complicated.
+* Data management and governance — what is that?
+
+* Every one of these is valid. If your business is not open or able to recognize the potential upside of managing data as a high-value asset, it will be an uphill battle to convince them otherwise.
+* That said, once you make the decision to manage data as the high-value asset it is, you’re going to need a plan. That’s when a data strategy becomes the starting point.
+
+# Why does every organization need a data strategy?
+
+* The purpose of any type of strategy is to agree on a set of guiding principles that inform decision-making in support of a desired outcome.
+* In simple terms, it’s the roadmap on how to reach your goals.
+* Businesses have visions that describe why they exist. They have missions that state what they do. To achieve their visions and missions, a strategy will answer how they will do it.
+* For a given end-state, people must agree on how decisions will be made and how resources will be allocated.
+* A strategy must have clarity and make it easy for all leaders and team members to know what they need to do, what they need to avoid, and how actions should be prioritized.
+* Operating without an agreed and current strategy carries enormous risks.
+* People may have different ideas of what the desired outcomes are and as a result conflicts emerge.
+* Despite the obvious risks, many organizations don’t have a current and well-communicated strategy.
+* For one thing, it’s hard to create and execute a strategy.
+* It’s also often considered a bureaucratic effort when some leaders believe all the energy should be on execution every day.
+* Strategic plans aren’t limited to big-picture goals like higher profit and market growth. While all strategies ultimately marry up to the vision and mission of the organization, guiding principles can also be used to drive change.
+* For example, if the organization's goal is to grow profits by 20 percent in 18 months, the human resources department should have a strategy on how that growth will be supported by recruitment.
+* You need a data strategy in order to elevate data to become a strategic resource.
+* That strategy should reflect the size and complexity of your business and the industry in which you operate.
+* Small businesses should have a data strategy, but they shouldn’t look anything like those used at a multinational level.
+* A good data strategy will guide decision-making and resource allocation around data in support of the organization.
+* It will demonstrate and communicate data as a priority and ensure that it is treated in a manner to optimize the success of the organization.
+* If your organization doesn’t have a data strategy, create one. If you have a data strategy, make sure it’s current and effectively communicated.
+
+
+
 
 
 
