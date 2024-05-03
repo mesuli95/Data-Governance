@@ -731,8 +731,46 @@
 
 # Data Monetization
 
-* 
+* Data doesn’t show up on the balance sheet.
+* Those assets that are required to be included in the accounts are carefully assessed so that an accurate picture can be captured of an organization's financials.
+* In addition to being a necessary mechanism for accountability, tax, and loan support, valuing provides a basis for understanding the importance and role of each asset.
+* Intuitively, when something has a high value, it’s likely to be treated differently from things with little value.
+* Without a process to place a price on a data set - called data valuation - the value of a given data set may be highly subjective and may differ considerably between the perspectives of team members.
+* In fact, it’s possible for an organization to not fully appreciate the value of specific data sets.
+* Without this knowledge, it’s much harder to take advantage of the opportunities that some data sets may provide, such as business growth and operational excellence.
+* When data provides an economic benefit to an organization, it's called data monetization. It’s a succinct, albeit cruder, way to generally consider the ultimate role of data in a for-profit enterprise.
+* Data valuation, while generally recommended in larger enterprises, is a requirement for advanced data monetization such as selling or licensing data.
 
+# Ways to determine data valuation
+
+* Cost value method:  Value is calculated by determining how much it costs to produce, store, and replace lost data. It’s a simple method and can be useful as a lightweight approach, but it is subjective and doesn’t necessarily account for the economic value that the data can produce.
+* Market value approach:  Value is calculated by researching how comparable data is being priced in the open market. It’s a great approach if market-based comparable data exists but doesn’t work for the vast number of data sets that are not traded.
+* Economic value approach:  Value is calculated by measuring the impact a data set has on the business’s bottom line. It’s a difficult approach because it may be nearly impossible to identify the specific value of the data relative to other contributors of value.
+* With-and-without method:  Value is calculated by quantifying the impact on cash flow if a data set needs to be replaced. Scenarios with and without the data are explored and the difference between cash flow is used to determine data value. Like others, this can be challenging to pinpoint the specific impact of a data set.
+
+* What’s clear from data valuation methods is that none of them are perfect. Above all, data valuation is very hard.
+* But in practice don’t be discouraged. It’s hard for every type of organization.
+* Fortunately, a number of providers are ready to help if you want outside assistance.
+* Assuming your organization realizes that data is a strategic corporate asset, you must be intentional in how you manage that asset.
+* Called data asset management, a business must know what data sets it has and understand their value. It must have a plan for utilization and a mechanism to measure return on investment.
+* For optimal data monetization, organizations must manage high-value data with the same priority and rigor (and maybe even more) that it treats its most important tangible assets.
+
+# Data-Driven Decision Making (DDDM)
+
+* Simply stated, data-driven decision-making (DDDM) is the process of using data to drive business decisions.
+* Perhaps the most important value for most enterprises to derive from data is the ability to make better, more-informed decisions.
+* It’s a theme you’ll notice again and again when individuals discuss the value of information. It’s not that other uses aren’t important.
+* But for DDDM to be really effective and to contribute to high performance, an organization needs a data culture, and specific skills and tools.
+* Organizations that excel at DDDM achieve it through deliberate actions and investments.
+
+# six-step process to data-driven decision-making:
+
+* Define the objectives:  This step involves understanding the objectives relative to the effort and their alignment with organizational goals. This will help you scope the work and define the metrics. In fact, it can be useful to define success and then work backward. For example, if you’re trying to increase sales in a particular region, you need to identify which metrics to capture in order to determine whether you achieved that objective.
+* Identify the data:  In addition to using a data catalogue, enterprise search, or similar, this step requires engaging with impacted stakeholders. Getting input from a diverse group of people and teams will help you scope the data. This may generate the need to gather data that doesn’t exist. You may need to consult with data stewards, data owners, and others with data governance responsibilities.
+* Prepare the data:  After Step 2, you'll understand the degree of preparation you need. If the problem you’re trying to solve is narrow and the data is easily accessible and high-quality, you’ll be in pretty good shape. In most cases, your situation is unlikely to be simple. The data necessary to meet your decision-making objectives will likely come in a variety of formats and will be in need of some remediation. You may need some deep data science skills to prepare the data for use in a data analytics platform.
+* Analyze the data:  Once you reach this point, the most exciting part begins. The assumption is that you’re using a useful analytics tool. For complex analysis and continuous efforts, several tools will be used. This could include support for an ETL architecture (Extract, Transform, and Load). This is when data is extracted from one system and made ready and available for use in another. To analyze this data, you will also need relevant representations such as visualizations. These could include graphs and charts. Your tool selection and how the data is presented will depend largely on the audience. For executives, a dashboard may be the right approach.
+* Determine the findings:  Once you have data that you can display in a variety of ways, you can ask questions about it. For example, if you’re trying to understand customer demographics relative to sales in a particular region, you may want to toggle between different age ranges. While all phases of DDDM have complexity, the tough work here is knowing which questions to ask. This skill is aided by training, but experience helps.
+* Take action:  That’s all there is to this step. Make your decisions. If you’ve completed Steps 1-5 well, but no action is taken (assuming that’s not the decision based on analyzing the data since concluding that no decision is necessary is, in fact, a decision), you’ve wasted a lot of time. DDDM is all about the decisions that result in actions.
 
 
 
