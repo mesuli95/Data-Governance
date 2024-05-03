@@ -696,6 +696,42 @@
 
 * Converting data into insights is no easy task. It’s complicated and skilled work and relies on good quality data that is accessible.
 * Those tasked with delivering insights often cite data quality, data volume, work effort, and integrating data from various sources as the top reasons that make it difficult and create a deterrent to adoption.
+* Quality insights can provide a competitive advantage and operational excellence, but organizations have work to do to fully realize their potential.
+
+  # Data Analytics
+
+  * Intuitively, data can contain enormous business value, but it must be unleashed.
+  * It may give you a headache or you might get lucky and discover a pattern in the data. More realistically, to realize the benefits of data and discover insights, you need analytics.
+  * Analytics unlocks the power embedded in good-quality data.
+  * Data analytics involves both specialized skills and software to explore data sets and extract insights that may be useful to an organization.
+  * Sometimes the term is used interchangeably with data analysis.
+  * Data analysis is concerned with identifying a data set, examining it, and reporting on any findings.
+  * It’s a subset of data analytics and it typically focuses on what data from the past tells us.
+  * On the other hand, data analytics is a complete science that involves collecting, cleaning, organizing, storing, administering, and analyzing data.
+  * In addition to informing you about the past, it is also used to help project possibilities into the future.
+
+ # The source of data for analytics is one or a combination of the following:
+
+ * First-party data:  Data that an organization collects.
+ * Second-party data:  Data that is obtained from another organization.
+ * Third-party data:  Aggregated data obtained from a provider.
+
+# Typical uses of contemporary data analytics tools and techniques include:
+
+* Vastly improved decision-making
+* Focused marketing campaigns
+* Understanding the competitive landscape
+* Designing more innovative products
+* Better customer service
+* Improved operations
+* Insights on customer behavior
+
+* Any organization that is serious about increasing the use of data for a wide range of business purposes must be ready to govern its data analytics capabilities.
+* This includes policies and procedures, experienced talent, and a suite of contemporary software tools.
+
+# Data Monetization
+
+* 
 
 
 
