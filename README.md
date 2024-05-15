@@ -63,6 +63,9 @@
 * Maintaining the program.
 * Data governance is about managing data well and helping to deliver its optimum value to your organization. It includes ensuring your data is available, usable, and secure.
 
+![Uploading image.png…]()
+
+
 # Developing a Data Governance Framework
 
 * While there are many framework variations to choose from, including ISACA’s Control Objectives for Information and Related Technologies (COBIT) IT governance framework, they share some common components that address people, processes, and technology.
